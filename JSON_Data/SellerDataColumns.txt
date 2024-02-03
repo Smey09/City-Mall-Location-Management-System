@@ -1,0 +1,10 @@
+[
+    1. SellerID,
+    2. ShopID,
+    3. SellerName,
+    4. ShopName,
+    5. SellerGender, 
+    6. PhoneNumber, 
+    7. RentUntil,
+    8. ProductType (Light, Heavy)
+]

@@ -1,0 +1,9 @@
+[
+    1. ShopID,
+    2. ShoppingMallID,
+    3. ShopFloor,
+    4. ShopSection,
+    5. ShopSize,
+    6. RentalPrize,
+    7. RentStatus
+]
